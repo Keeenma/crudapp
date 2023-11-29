@@ -1,0 +1,19 @@
+.container{
+    padding: 20px 0px; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftlinks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 40px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.links:hover{
+    color: rebeccapurple;
+}
