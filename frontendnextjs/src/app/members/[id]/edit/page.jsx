@@ -213,7 +213,7 @@ const Useredit = ({ params }) => {
                 type="submit"
                 className="bg-indigo-100 py-3 px-10 rounded-lg"
               >
-                Create
+                Update
               </button>
             </div>
           </div>
